@@ -11,8 +11,7 @@ scalable software, high-performance systems, and AI-powered applications.
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, C++ and Backend Development**
 - ⚡ Interested in **high-performance systems, developer infrastructure and AI**
 - 🎓 **Dual Degree @ IIT Kharagpur**
-- 📫 Reach me at **YOUR_EMAIL**
-- 🌐 Check out my **portfolio: YOUR_PORTFOLIO**
+- 📫 Reach me at **shashankguptaji45@gmail.com**
 
 ---
 
